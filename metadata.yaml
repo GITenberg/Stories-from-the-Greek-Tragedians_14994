@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2020
     wikipedia: https://en.wikipedia.org/wiki/Alfred_John_Church
 description: Cover -- Contents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14994#Stories-from-the-Greek-Tragedians
 gutenberg_issued: '2005-02-09'
 gutenberg_type: Text
 identifiers:
