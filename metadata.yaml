@@ -1,0 +1,29 @@
+_repo: Stories-from-the-Greek-Tragedians_14994
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Church, Alfred John
+    alias: Church, Alfred J.
+    birthdate: 1829
+    deathdate: 1912
+    gutenberg_agent_id: '2020'
+    url: http://www.gutenberg.org/2009/agents/2020
+    wikipedia: https://en.wikipedia.org/wiki/Alfred_John_Church
+description: Cover -- Contents.
+gutenberg_issued: '2005-02-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14994'
+  lccn: '42029895'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PA'
+- !lcsh 'Greek drama (Tragedy) -- Stories, plots, etc.'
+title: Stories from the Greek Tragedians
+url: http://www.gutenberg.org/ebooks/14994
